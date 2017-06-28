@@ -17,7 +17,8 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        //test
+        //test7634534
+        //merge conflicts
         // Dispose of any resources that can be recreated.
     }
 
